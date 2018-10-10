@@ -1,4 +1,4 @@
-FROM ubuntu:18.03
+FROM ubuntu:18.04
 ENV ARCH=amd64
 
 LABEL MAINTAINER="github@angelnu.com"
